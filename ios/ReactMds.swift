@@ -22,7 +22,7 @@ public final class ReactMds: RCTEventEmitter {
     }
 
     @objc public override func supportedEvents() -> [String] {
-        var allEventNames: [String] = ["newScannedDevice", "newNotification", "newNotificationError"]
+        let allEventNames: [String] = ["newScannedDevice", "newNotification", "newNotificationError"]
         return allEventNames
     }
     
