@@ -1,4 +1,4 @@
 #import "MDS.h"
 #import "CoreBluetooth/CoreBluetooth.h"
-#import <React/RCTBridgeModule.h>
-#import <React/RCTEventEmitter.h>
+#import "RCTBridgeModule.h"
+#import "RCTEventEmitter.h"
