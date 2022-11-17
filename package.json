@@ -9,9 +9,9 @@
   "keywords": [
     "react-native"
   ],
-  "author": "Tugberk Akdogan",
+  "author": "Jogy Felix",
   "license": "MIT",
   "peerDependencies": {
-    "react-native": "^0.41.2"
+    "react-native": "^0.69.0"
   }
 }
