@@ -12,6 +12,6 @@
   "author": "Jogy Felix",
   "license": "MIT",
   "peerDependencies": {
-    "react-native": "^0.69.0"
+    "react-native": "^0.68.5"
   }
 }
